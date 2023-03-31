@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labo3</string>
+    <string name="cantidad_de_dinero">Cantidad de dinero</string>
+    <string name="_0_0">$0.0</string>
+    <string name="textview">$0.05</string>
+    <string name="textview2">$0.10</string>
+    <string name="textview3">$0.25</string>
+    <string name="textview4">$1</string>
+</resources>
