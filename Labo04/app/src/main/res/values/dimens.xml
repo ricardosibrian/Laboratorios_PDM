@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_gap">16dp</dimen>
+    <dimen name="small_text">16sp</dimen>
+    <dimen name="width_outline">352dp</dimen>
+    <dimen name="height_outline">63dp</dimen>
+</resources>
