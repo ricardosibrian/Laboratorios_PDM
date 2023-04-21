@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Labo05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="star_wars_name">Star Wars 3</string>
+    <string name="star_wars_cal">9.8</string>
+    <string name="harry_potter_cal">9.5</string>
+    <string name="harry_potter_name">Harry Potter</string>
+    <string name="ciencia_ficcion">Ciencia Ficcion</string>
+    <string name="descripcion">Se detalla descripcion</string>
+    <string name="new_movie">New movie</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+</resources>
