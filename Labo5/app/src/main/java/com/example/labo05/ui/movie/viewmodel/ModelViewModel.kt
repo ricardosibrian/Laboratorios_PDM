@@ -57,6 +57,13 @@ class MovieViewModel(private val repository: MovieRepository): ViewModel() {
         qualification.value = ""
     }
 
+    fun setSelectedMovie(movie: MovieModel) {
+        name.value = movie.name
+        category.value = movie.category
+        description.value = movie.description
+        qualification.value = movie.qualification
+    }
+
     companion object {
         val Factory = viewModelFactory {
             initializer {

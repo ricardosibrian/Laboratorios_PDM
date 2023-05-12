@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.labo05.ui.movie.HomeFragment"
+        android:name="com.example.labo05.ui.movie.billboard.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
@@ -24,7 +24,7 @@
         tools:layout="@layout/fragment_movie" />
     <fragment
         android:id="@+id/newMovieFragment"
-        android:name="com.example.labo05.ui.movie.NewMovieFragment"
+        android:name="com.example.labo05.ui.movie.newmovie.NewMovieFragment"
         android:label="fragment_new_movie"
         tools:layout="@layout/fragment_new_movie" />
 </navigation>

@@ -1,18 +1,15 @@
-package com.example.labo05.ui.movie
+package com.example.labo05.ui.movie.newmovie
 
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
-import com.example.labo05.R
-import com.example.labo05.data.model.MovieModel
 import com.example.labo05.databinding.FragmentNewMovieBinding
-import com.google.android.material.textfield.TextInputEditText
+import com.example.labo05.ui.movie.MovieViewModel
 
 class NewMovieFragment : Fragment() {
 
